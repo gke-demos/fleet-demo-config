@@ -24,7 +24,7 @@ spec:
   sourceFormat: unstructured
   git:
     # If you fork this repo, change the url to point to your fork
-    repo: https://github.com/gke-demos/fleet-demo-config.git
+    repo: https://github.com/gke-demos/fleet-demo-config
     # If you move the configs to a different branch, update the branch here
     branch: main
     dir: namespaces/application1
